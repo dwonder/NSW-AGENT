@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bayward NSW Connector",
+  "description": "A comprehensive interface for Bayward Agents to manage Air Cargo Manifest submissions, amendments, and tracking via the National Single Window (NSW) API, enhanced with Gemini AI assistance.",
+  "requestFramePermissions": []
+}
